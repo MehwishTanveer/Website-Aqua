@@ -1,0 +1,274 @@
+div .header{
+    background-image: url("../images/background/w7.jpg");
+    background-color: #0090C0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    height: 180px;
+}
+
+
+.aqua{
+    text-transform: lowercase;
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    font-size: 100px;
+    kerning: 0.3em;
+    color: #203E52;
+    text-shadow: 5px 8px 15px white;
+}
+
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img{
+    width: 100%;
+    margin: auto;
+}
+
+
+.slider{
+    margin: 0px !important;
+}
+
+.navigation{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px !important;
+    background-color: #203E52 !important;
+}
+
+
+.main-heading{
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 5px 5px 5px #FFF;
+    font-family: 'Courgette', cursive;
+}
+
+
+.page-1{
+    background-color: #B7E3FC;
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+}
+
+.about{
+    text-shadow: 5px 5px 5px #0A1857;
+}
+
+
+.about-box{
+    border: 2px solid cornflowerblue;
+    background-color: #2384A4;
+    color: white;
+    border-radius: 5em 8em 3em 7em / 2em 6em 6em 7em; 
+    -moz-border-radius: 5em 8em 3em 7em / 2em 6em 6em 7em; 
+    -webkit-border-radius:  5em 8em 3em 7em / 2em 6em 6em 7em; 
+    padding: 10px 30px 10px 30px;
+    margin: 30px 10px 30px 10px;
+    text-align: center;
+}
+
+
+ul{
+    list-style-image: url("../images/icons/fish-icon.png");
+    list-style-position: outside;
+    margin-left: 20px;
+}
+
+li h1{
+   font-size: 40px;
+}
+
+
+.history h1{
+    margin-top: 30px;
+    text-align: center;
+    color: #0A1857;
+}
+
+
+.history-tab{
+    margin-bottom: 30px;
+    margin-top: 10px;
+    padding: 20px;
+    border-top: 5px solid #314757;
+    border-bottom: 5px solid #314757;
+    color: #000;
+}
+
+.history-tab th{
+    background-color: #ABBEAB;
+    padding: 10px;
+}
+
+.history-tab td{
+    background-color: #2384A4;
+    padding: 20px 10px 20px 10px;
+    color: papayawhip;
+}
+
+.history-tab td:hover{
+    background-color: #7FBCE9;
+}
+
+.services{
+    color: #0A1857;
+    margin: 70px 0px 70px 0px;
+}
+
+.fish{
+    border: 15px solid #fff;
+}
+
+.align-center{
+    text-align: center;
+}
+
+
+.social{
+    display: inline !important;
+}
+
+
+.page-2{
+    background-image: url("../images/background/w1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    background-color: #1B92C8;
+}
+
+.fish-sale{
+    display: inline-block;
+    text-align: center;
+    background-color: #B7E3FC;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    color: #020054;
+}
+
+.img-caption{
+    border: 5px solid #fff;
+    padding: 10px;
+}
+
+.fish-img>img{
+    margin: 0px auto 0px auto;
+}
+
+.price{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+button{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+
+.page-3{
+    font-size: 20px;
+    font-family: 'Courgette', cursive;
+    background-color: #B7E3FC;
+}
+
+img .fish-offer{
+    margin: 10px auto 10px auto;
+}
+
+.para{
+    padding: 10px;
+    text-align: center;
+}
+
+.para h3{
+    color: #0A1857;
+    text-shadow: 5px 5px 5px #fff;
+}
+
+.para h2{
+    color: #0A1857;
+    text-shadow: 5px 5px 5px #fff;
+}
+
+.trop{
+    margin-bottom: 30px;
+}
+
+.aquarium{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.page-4{
+    font-size: 20px;
+    font-family: 'Courgette', cursive;
+    background-color: #B7E3FC;
+}
+
+
+input {  
+    font-size: 100%;  
+    color: #5a5854;  
+    background-color: #f2f2f2;  
+    border: 1px solid #bdbdbd;  
+    border-radius: 5px;  
+    padding: 5px 5px 5px 5px;   
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif !important;
+}
+ 
+ 
+input:focus { 
+     background-color: #ffffff;  
+     border: 1px solid #b1e1e4;
+} 
+
+
+textarea {  
+    font-size: 100%;  
+    color: #5a5854;  
+    background-color: #f2f2f2;  
+    border: 1px solid #bdbdbd;  
+    border-radius: 5px;  
+    padding: 5px 5px 5px 5px; 
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif !important;
+} 
+
+
+textarea:focus { 
+    background-color: #ffffff;  
+    border: 1px solid #b1e1e4;
+} 
+
+.submit-pos{
+    text-align: center;
+} 
+
+
+input#submit:hover {
+     color: #333333; 
+     border: 1px solid #a4a4a4; 
+     border-top: 2px solid #b2b2b2; 
+     background-color: orange;
+}
+
+.c-form{
+    margin: 20px 0px 20px 0px;
+}
+
+hr{
+    color: gray;
+}
+
+.footer{
+    color: #fff;
+    background-color: #1A5374;
+    border-top: 20px solid #216182;
+    text-decoration: none;
+    text-align: center;
+}
